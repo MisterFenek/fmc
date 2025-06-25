@@ -1,1 +1,1 @@
-# fmc
+# FennecMC v4 Resources
